@@ -1,7 +1,6 @@
 items:
--   label: 简介
-    file: README.md
-items:
 -   label: 简介1
     file: REA3DME.md
+-   label: 简介
+     file: README.md
 
