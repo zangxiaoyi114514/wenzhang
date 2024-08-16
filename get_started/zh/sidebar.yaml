@@ -1,8 +1,5 @@
 items:
--   label: 简介
-    file: README.md
-items:
--   label: Brief
-    file: README.md
--   label: First
-    file: test.md
+-   label: 赞助二维码
+    file: 2.md
+-   label: 赞助名单
+    file: zzmd.md
