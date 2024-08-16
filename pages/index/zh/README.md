@@ -1,6 +1,6 @@
 
 ---
-title: my_site
+title: 赞助名单
 keywords: my_site
 desc: my_site, 使用 teedoc 生成的网站
 id: home_page
@@ -11,7 +11,7 @@ id: home_page
 
 <div>
     <h1><span>my_site</span></h1>
-    <h3>好耶~ 网站出现啦！</h3>
+    <h3>好耶~ 金主爸爸</h3>
 </div>
 <div id="big_btn_wrapper">
     <div class="big_btn">
