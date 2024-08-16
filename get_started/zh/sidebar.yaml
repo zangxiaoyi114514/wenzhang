@@ -1,5 +1,3 @@
 items:
--   label: 赞助二维码
-    file: 2.md
--   label: 赞助名单
-    file: zzmd.md
+-   label: 简介
+    file: README.md
