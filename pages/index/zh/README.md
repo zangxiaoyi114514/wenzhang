@@ -15,7 +15,7 @@ id: home_page
 </div>
 <div id="big_btn_wrapper">
     <div class="big_btn">
-        <a href="/get_started/zh/">开始使用</a>
+        <a href="/get_started/zh/">进入</a>
     </div>
 </div>
 
