@@ -2,7 +2,7 @@
     "locale": "zh_CN",
     "class": "language_zh",
     "navbar": {
-        "title": "my_site",
+        "title": "赞助名单",
         "logo": {
             "alt": "my_site logo",
             "src": "/static/image/logo.png"
