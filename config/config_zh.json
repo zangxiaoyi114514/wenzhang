@@ -2,7 +2,7 @@
     "locale": "zh_CN",
     "class": "language_zh",
     "navbar": {
-        "title": "赞助名单",
+        "title": "my_site",
         "logo": {
             "alt": "my_site logo",
             "src": "/static/image/logo.png"
@@ -34,7 +34,50 @@
         ]
     },
     "footer":{
-       
+        "top":[
+            {
+                "label": "链接",
+                "items": [
+                    {
+                        "label": "使用 teedoc 构建",
+                        "url": "https://teedoc.neucrack.com",
+                        "target": "_blank"
+                    },
+                    {
+                        "label": "网站地图",
+                        "url": "/sitemap.xml"
+                    }
+                ]
+            },
+            {
+                "label": "源码",
+                "items": [
+                    {
+                        "label": "github",
+                        "url": "https://github.com/neutree/teedoc",
+                        "target": "_blank"
+                    },
+                    {
+                        "label": "gitee",
+                        "url": "https://gitee.com/teedoc/teedoc",
+                        "target": "_blank"
+                    },
+                    {
+                        "label": "本网站源文件",
+                        "url": "https://github.com/teedoc/teedoc.github.io",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        ],
+        "bottom": [
+            {
+               
+            },
+            {
+               
+            }
+        ]
     },
     "plugins": {
         "teedoc-plugin-search":{
