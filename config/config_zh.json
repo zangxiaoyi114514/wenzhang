@@ -2,7 +2,7 @@
     "locale": "zh_CN",
     "class": "language_zh",
     "navbar": {
-        "title": "my_site",
+        "title": "赞助名单",
         "logo": {
             "alt": "my_site logo",
             "src": "/static/image/logo.png"
@@ -15,15 +15,10 @@
                 "position": "left"
             },
             {
-                "url": "/blog/",
-                "label": "博客",
-                "position": "left"
+               
             },
             {
-                "url": "https://github.com/neutree/teedoc",
-                "label": "github",
-                "target": "_blank",
-                "position": "right"
+                
             },
             {
                 "id": "language",
