@@ -44,28 +44,22 @@
                         "target": "_blank"
                     },
                     {
-                        "label": "网站地图",
-                        "url": "/sitemap.xml"
+                        "label": "小毅的网站",
+                        "url": "https://xwjdcjzx.top/"
                     }
                 ]
             },
             {
-                "label": "源码",
+                "label": "",
                 "items": [
                     {
-                        "label": "github",
-                        "url": "https://github.com/neutree/teedoc",
-                        "target": "_blank"
+                       
                     },
                     {
-                        "label": "gitee",
-                        "url": "https://gitee.com/teedoc/teedoc",
-                        "target": "_blank"
+                       
                     },
                     {
-                        "label": "本网站源文件",
-                        "url": "https://github.com/teedoc/teedoc.github.io",
-                        "target": "_blank"
+                        
                     }
                 ]
             }
