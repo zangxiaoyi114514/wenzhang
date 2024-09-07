@@ -41,13 +41,13 @@
                 "label": "链接",
                 "items": [
                     {
-                        "label": "回到ZISHUI资源分享网",
-                        "url": "https://blog.zishui.icu/",
+                        "label": "后台管理",
+                        "url": "https://github.com/zangxiaoyi114514/wenzhang",
                         "target": "_blank"
                     },
                     {
                         "label": "小毅的网站",
-                        "url": "https://xwjdcjzx.top/"
+                        "url": "https://zangxiaoyi.asia/"
                     }
                 ]
             },
