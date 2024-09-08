@@ -2,10 +2,10 @@
     "site_name": "mysite",
     "site_slogon": "",
     "site_root_url": "/",
-    "site_domain": "my_name.github.io",
+    "site_domain": "wenzhang",
     "site_protocol": "https",
     "config_template_dir": "config",
-    "source": "https://github.com/my_name/my_name.github.io/blob/main",
+    "source": "https://github.com/zangxiaoyi114514/wenzhang/",
     "route": {
         "docs": {
             "/get_started/zh/": "docs/get_started/zh"

@@ -11,7 +11,7 @@ id: home_page
 
 <div>
     <h1><span>赞助名单</span></h1>
-    <h3>好耶~ 金主爸爸</h3>
+    <h3>好耶~ 金主</h3>
 </div>
 <div id="big_btn_wrapper">
     <div class="big_btn">
